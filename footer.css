@@ -1,0 +1,85 @@
+/* ------------Footer------------ */
+
+
+.foooter{
+	margin-top: 16px;
+}
+.footer-icon{
+	display: flex;
+	justify-content: center ;
+	align-items: center;
+}
+
+
+.inner-icon{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-right: 5px;
+}
+
+.form2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 50px;
+}
+
+.foot-logo{
+	height: 10px;
+	width: 10px;
+	/* margin-left: 0px;
+margin-top: 0px; */
+}
+
+
+.form-form
+{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+  .font{
+color: rgb(235, 32, 32);
+
+  }
+.privacy
+{
+	color: white;
+}
+
+
+.foot-logo{
+	height: 10px;
+	width: 10px;
+	
+}
+
+
+.foot-div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+} 
+
+.foot-sec {
+	display: flex;
+	justify-content: center;
+	/* align-items: center; */
+	margin:24px -3px -23px -18px ;
+	/* width: 25px; */
+
+}
+
+.foot-para{
+	font-size :16px; 
+	font-family:tangerine  ;
+}
+
+.foot-para-div1{
+	margin: -2px -17px 0px 6px ;
+}
+
+.foot-para-div2{
+	margin: -4px -3px 5px 6px ;
+}

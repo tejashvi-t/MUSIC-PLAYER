@@ -1,0 +1,32 @@
+.section1 img {
+    min-height: 180px;
+    max-width: 260px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 0 1 33%;
+    border-radius: 15%;
+    transition: all 0.9 ease-in-out, transform 0.3s ease-in-out,
+      box-shadow 0.3s ease-in-out;
+    padding: 5px;
+    padding-top: 5px;
+
+}
+
+.main-div .latest-highway :hover {
+   height: 200px;
+    width: 200px;
+    transform: scale(1.2);
+	 box-shadow: 0px 0px 1.5px 1.5px rgb(232, 27, 78); 
+	cursor: pointer;
+
+}
+.section1{
+  width: 68%;
+  margin-left: 35px;
+}
+
+.kro-flex{
+  display: flex;
+}
+

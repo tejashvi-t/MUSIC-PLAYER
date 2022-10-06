@@ -1,0 +1,14 @@
+
+aside {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 3%;
+    width: 25%;
+}
+
+.widget {
+    margin-top: 3.5rem;
+    border-top: 4px solid black;
+    line-height: 1.6;
+    font-size: 1.1rem;
+}

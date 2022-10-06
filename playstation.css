@@ -1,0 +1,52 @@
+                                
+                                
+                                /* -----------      css for playstation ---------- */
+
+
+/* images  */
+
+.radhe{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  border: 2px solid rgba(255, 255, 255, 0.792);
+}
+/* main div  */
+.station{
+    margin-top :10px; 
+    display: flex;
+    margin-left: 27px;
+    border: 2px solid red;
+    width: 55%;
+    box-shadow: 0px 0px 20px red inset;
+}
+/* images   */
+.play1{
+    padding: 15px;
+}
+
+/* heading  */
+
+.music-stat{
+    color: aliceblue;
+    margin-left: 3px;
+    margin-top: 15px;
+}
+
+
+/* transitions on starion  */
+
+    .playstation   .play1  :hover{
+        box-shadow: 0px 0px 5px 2px rgba(255, 0, 149, 0.498);
+        border: 4px solid cyan;
+        animation: rotate 1.3s linear infinite;
+        
+    }
+    
+    @keyframes rotate {
+        0% {
+            transform: rotate(-360deg);
+        }
+    }
+
+    /* end play station  */
